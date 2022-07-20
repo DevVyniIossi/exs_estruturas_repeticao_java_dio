@@ -2,7 +2,6 @@
 
 Neste repositório você encontrará a atividade prática proposta pelo curso "ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA" do BootCamp da TQI da DIO - Digital Innovation One, ministrado pela [cami-la](https://github.com/cami-la).
 
-## <hr>
 
 ### 💭 EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO - Status: ✔️ - Concluído.
 
@@ -33,7 +32,6 @@ Tabuada de 5:
 **🔸Fatorial:** Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário.
 Ex.: 5!=5.4.3.2.1=120
 
-## <hr>
 
 ### 💭 EXERCÍCIOS ARRAYS - Status: 👨‍💻 - Em desenvolvimento.
 
