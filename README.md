@@ -2,7 +2,6 @@
 
 Neste repositório você encontrará a atividade prática proposta pelo curso "ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA" do BootCamp da TQI da DIO - Digital Innovation One, ministrado pela [cami-la](https://github.com/cami-la).
 
-## <hr>
 
 ### 💭 EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO - Status: ✔️ - Concluído.
 
