@@ -33,7 +33,7 @@ Tabuada de 5:
 Ex.: 5!=5.4.3.2.1=120
 
 
-### 💭 EXERCÍCIOS ARRAYS - Status: 👨‍💻 - Em desenvolvimento.
+### 💭 EXERCÍCIOS ARRAYS - Status: ✔️ - Concluído.
 
 
 
